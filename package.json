@@ -1,5 +1,5 @@
 {
-  "name": "mojibake.jp",
+  "name": "convjp",
   "version": "1.0.0",
   "description": "日本語用の文字化けエンコード・デコードライブラリ",
   "main": "index.js",
