@@ -1,4 +1,4 @@
-declare module 'mojibake.jp' {
+declare module 'convjp' {
   /**
    * Mojibakeクラス
    * UTF-8とShift_JIS間の文字化けエンコード・デコードを行う
