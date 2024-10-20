@@ -3,7 +3,7 @@
 
 ## 使い方
 ```js
-const Mojibake = require("@otoneko./mojibake");
+const Mojibake = require('convjp');
 
 const mojibake = new Mojibake();
 

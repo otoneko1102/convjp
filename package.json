@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/otoneko1102/mojibake.git"
+    "url": "git+https://github.com/otoneko1102/convjp.git"
   },
   "keywords": [
     "mojibake",
     "encode",
     "decode",
+    "joke",
     "jp",
     "japan",
     "japanese",
@@ -24,9 +25,9 @@
   "author": "otoneko.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/otoneko1102/mojibake/issues"
+    "url": "https://github.com/otoneko1102/convjp/issues"
   },
-  "homepage": "https://github.com/otoneko1102/mojibake#readme",
+  "homepage": "https://github.com/otoneko1102/convjp#readme",
   "dependencies": {
     "iconv-lite": "^0.6.3"
   },
