@@ -1,4 +1,4 @@
-# @otoneko./mojibake
+# mojibake.jp
 日本語用の文字化けエンコード・デコードライブラリ
 
 ## 使い方

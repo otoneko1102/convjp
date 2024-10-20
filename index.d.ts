@@ -1,4 +1,4 @@
-declare module '@otoneko./mojibake' {
+declare module 'mojibake.jp' {
   /**
    * Mojibakeクラス
    * UTF-8とShift_JIS間の文字化けエンコード・デコードを行う
